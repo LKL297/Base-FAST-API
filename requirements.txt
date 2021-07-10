@@ -1,0 +1,7 @@
+fastapi 
+sqlalchemy
+async-exit-stack 
+async-generator
+pydantic
+pyodbc
+uvicorn
